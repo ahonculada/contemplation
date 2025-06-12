@@ -1,0 +1,16 @@
+{
+  "todo": [
+    "Task A",
+    "Task B",
+    "Task C"
+  ],
+  "review": [
+    "Task C",
+    "Task D",
+    "Task E"
+  ],
+  "confident": [
+    "Task F",
+    "Task G"
+  ]
+}
